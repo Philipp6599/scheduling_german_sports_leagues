@@ -1,0 +1,307 @@
+,matchday,games,home,away
+0,1,1,1. FC Union Berlin ,Bayer 04 Leverkusen 
+1,1,38,Arminia Bielefeld ,TSG Hoffenheim 
+2,1,42,Hertha BSC ,SpVgg Greuther Fürth 
+3,1,62,VfL Wolfsburg ,Bor. Mönchengladbach 
+4,1,106,SC Freiburg ,Eintracht Frankfurt 
+5,1,123,FC Augsburg ,VfL Bochum 
+6,1,142,VfB Stuttgart ,Bayern München 
+7,1,155,RB Leipzig ,1. FSV Mainz 05 
+8,1,238,1. FC Köln ,Borussia Dortmund 
+9,2,52,TSG Hoffenheim ,VfL Wolfsburg 
+10,2,88,SC Freiburg ,SpVgg Greuther Fürth 
+11,2,126,1. FC Köln ,FC Augsburg 
+12,2,172,Bor. Mönchengladbach ,1. FC Union Berlin 
+13,2,192,VfL Bochum ,Bayern München 
+14,2,227,Borussia Dortmund ,Arminia Bielefeld 
+15,2,239,RB Leipzig ,Eintracht Frankfurt 
+16,2,246,Bayer 04 Leverkusen ,Hertha BSC 
+17,2,267,1. FSV Mainz 05 ,VfB Stuttgart 
+18,3,33,SpVgg Greuther Fürth ,VfL Wolfsburg 
+19,3,67,Eintracht Frankfurt ,Hertha BSC 
+20,3,82,Arminia Bielefeld ,1. FSV Mainz 05 
+21,3,92,Bayern München ,SC Freiburg 
+22,3,97,VfL Bochum ,TSG Hoffenheim 
+23,3,141,FC Augsburg ,RB Leipzig 
+24,3,196,Bayer 04 Leverkusen ,VfB Stuttgart 
+25,3,200,Borussia Dortmund ,Bor. Mönchengladbach 
+26,3,243,1. FC Union Berlin ,1. FC Köln 
+27,4,70,SpVgg Greuther Fürth ,VfL Bochum 
+28,4,129,Hertha BSC ,Arminia Bielefeld 
+29,4,176,TSG Hoffenheim ,Borussia Dortmund 
+30,4,180,FC Augsburg ,1. FC Union Berlin 
+31,4,183,VfB Stuttgart ,Eintracht Frankfurt 
+32,4,185,1. FC Köln ,SC Freiburg 
+33,4,236,VfL Wolfsburg ,Bayer 04 Leverkusen 
+34,4,280,1. FSV Mainz 05 ,Bayern München 
+35,4,283,Bor. Mönchengladbach ,RB Leipzig 
+36,5,4,Bor. Mönchengladbach ,Bayern München 
+37,5,13,RB Leipzig ,VfB Stuttgart 
+38,5,35,VfL Bochum ,Hertha BSC 
+39,5,73,1. FSV Mainz 05 ,FC Augsburg 
+40,5,110,Eintracht Frankfurt ,1. FC Union Berlin 
+41,5,116,VfL Wolfsburg ,Borussia Dortmund 
+42,5,119,Arminia Bielefeld ,1. FC Köln 
+43,5,120,Bayer 04 Leverkusen ,SpVgg Greuther Fürth 
+44,5,131,SC Freiburg ,TSG Hoffenheim 
+45,6,10,Bayern München ,1. FC Köln 
+46,6,12,Hertha BSC ,VfL Wolfsburg 
+47,6,128,Eintracht Frankfurt ,Bayer 04 Leverkusen 
+48,6,140,Borussia Dortmund ,SpVgg Greuther Fürth 
+49,6,159,TSG Hoffenheim ,FC Augsburg 
+50,6,182,Arminia Bielefeld ,Bor. Mönchengladbach 
+51,6,206,VfB Stuttgart ,VfL Bochum 
+52,6,208,1. FC Union Berlin ,1. FSV Mainz 05 
+53,6,222,RB Leipzig ,SC Freiburg 
+54,7,79,VfL Bochum ,Eintracht Frankfurt 
+55,7,104,Borussia Dortmund ,VfB Stuttgart 
+56,7,121,Bor. Mönchengladbach ,SC Freiburg 
+57,7,169,1. FC Union Berlin ,TSG Hoffenheim 
+58,7,217,Bayern München ,Bayer 04 Leverkusen 
+59,7,230,SpVgg Greuther Fürth ,RB Leipzig 
+60,7,253,1. FC Köln ,1. FSV Mainz 05 
+61,7,254,VfL Wolfsburg ,Arminia Bielefeld 
+62,7,264,FC Augsburg ,Hertha BSC 
+63,8,78,VfB Stuttgart ,1. FC Union Berlin 
+64,8,91,1. FSV Mainz 05 ,Bor. Mönchengladbach 
+65,8,147,Hertha BSC ,Borussia Dortmund 
+66,8,171,VfL Bochum ,1. FC Köln 
+67,8,210,Eintracht Frankfurt ,Bayern München 
+68,8,221,Arminia Bielefeld ,FC Augsburg 
+69,8,233,SC Freiburg ,VfL Wolfsburg 
+70,8,265,Bayer 04 Leverkusen ,RB Leipzig 
+71,8,266,TSG Hoffenheim ,SpVgg Greuther Fürth 
+72,9,102,Bayer 04 Leverkusen ,VfL Bochum 
+73,9,108,1. FC Köln ,Bor. Mönchengladbach 
+74,9,135,1. FC Union Berlin ,SC Freiburg 
+75,9,148,RB Leipzig ,Arminia Bielefeld 
+76,9,160,SpVgg Greuther Fürth ,VfB Stuttgart 
+77,9,211,FC Augsburg ,Borussia Dortmund 
+78,9,277,Eintracht Frankfurt ,TSG Hoffenheim 
+79,9,289,Hertha BSC ,1. FSV Mainz 05 
+80,9,298,VfL Wolfsburg ,Bayern München 
+81,10,63,1. FC Union Berlin ,VfL Wolfsburg 
+82,10,95,SpVgg Greuther Fürth ,Eintracht Frankfurt 
+83,10,181,Borussia Dortmund ,Bayer 04 Leverkusen 
+84,10,184,Bayern München ,RB Leipzig 
+85,10,187,1. FSV Mainz 05 ,TSG Hoffenheim 
+86,10,194,Bor. Mönchengladbach ,FC Augsburg 
+87,10,212,SC Freiburg ,Hertha BSC 
+88,10,290,VfL Bochum ,Arminia Bielefeld 
+89,10,297,VfB Stuttgart ,1. FC Köln 
+90,11,9,Bayer 04 Leverkusen ,Bor. Mönchengladbach 
+91,11,25,VfB Stuttgart ,SC Freiburg 
+92,11,54,1. FC Köln ,SpVgg Greuther Fürth 
+93,11,89,TSG Hoffenheim ,Hertha BSC 
+94,11,105,FC Augsburg ,Bayern München 
+95,11,158,Eintracht Frankfurt ,Borussia Dortmund 
+96,11,170,1. FSV Mainz 05 ,VfL Bochum 
+97,11,179,RB Leipzig ,VfL Wolfsburg 
+98,11,198,Arminia Bielefeld ,1. FC Union Berlin 
+99,12,72,1. FC Köln ,Bayer 04 Leverkusen 
+100,12,139,Bor. Mönchengladbach ,Eintracht Frankfurt 
+101,12,156,SC Freiburg ,Arminia Bielefeld 
+102,12,175,Hertha BSC ,Bayern München 
+103,12,214,TSG Hoffenheim ,VfB Stuttgart 
+104,12,247,Borussia Dortmund ,RB Leipzig 
+105,12,271,VfL Wolfsburg ,1. FSV Mainz 05 
+106,12,303,FC Augsburg ,SpVgg Greuther Fürth 
+107,12,305,1. FC Union Berlin ,VfL Bochum 
+108,13,50,SC Freiburg ,FC Augsburg 
+109,13,134,VfL Wolfsburg ,VfB Stuttgart 
+110,13,138,Bayer 04 Leverkusen ,TSG Hoffenheim 
+111,13,153,Hertha BSC ,1. FC Köln 
+112,13,173,SpVgg Greuther Fürth ,1. FSV Mainz 05 
+113,13,174,Eintracht Frankfurt ,Arminia Bielefeld 
+114,13,237,VfL Bochum ,Bor. Mönchengladbach 
+115,13,270,RB Leipzig ,1. FC Union Berlin 
+116,13,275,Bayern München ,Borussia Dortmund 
+117,14,81,1. FC Union Berlin ,Bayern München 
+118,14,168,Arminia Bielefeld ,SpVgg Greuther Fürth 
+119,14,229,Bor. Mönchengladbach ,Hertha BSC 
+120,14,240,VfB Stuttgart ,FC Augsburg 
+121,14,260,RB Leipzig ,TSG Hoffenheim 
+122,14,286,Borussia Dortmund ,VfL Bochum 
+123,14,296,1. FC Köln ,VfL Wolfsburg 
+124,14,299,1. FSV Mainz 05 ,Eintracht Frankfurt 
+125,14,302,Bayer 04 Leverkusen ,SC Freiburg 
+126,15,37,1. FSV Mainz 05 ,SC Freiburg 
+127,15,48,Eintracht Frankfurt ,1. FC Köln 
+128,15,56,Arminia Bielefeld ,Bayer 04 Leverkusen 
+129,15,193,1. FC Union Berlin ,Borussia Dortmund 
+130,15,213,VfL Bochum ,RB Leipzig 
+131,15,228,TSG Hoffenheim ,Bayern München 
+132,15,251,FC Augsburg ,VfL Wolfsburg 
+133,15,256,SpVgg Greuther Fürth ,Bor. Mönchengladbach 
+134,15,278,Hertha BSC ,VfB Stuttgart 
+135,16,8,VfL Wolfsburg ,VfL Bochum 
+136,16,11,Eintracht Frankfurt ,FC Augsburg 
+137,16,14,SC Freiburg ,Borussia Dortmund 
+138,16,36,1. FC Köln ,RB Leipzig 
+139,16,46,Bayer 04 Leverkusen ,1. FSV Mainz 05 
+140,16,96,VfB Stuttgart ,Arminia Bielefeld 
+141,16,204,Bayern München ,SpVgg Greuther Fürth 
+142,16,252,Hertha BSC ,1. FC Union Berlin 
+143,16,304,Bor. Mönchengladbach ,TSG Hoffenheim 
+144,17,24,FC Augsburg ,Bayer 04 Leverkusen 
+145,17,44,VfL Wolfsburg ,Eintracht Frankfurt 
+146,17,49,RB Leipzig ,Hertha BSC 
+147,17,66,Borussia Dortmund ,1. FSV Mainz 05 
+148,17,71,TSG Hoffenheim ,1. FC Köln 
+149,17,218,VfB Stuttgart ,Bor. Mönchengladbach 
+150,17,262,Arminia Bielefeld ,Bayern München 
+151,17,268,SC Freiburg ,VfL Bochum 
+152,17,285,1. FC Union Berlin ,SpVgg Greuther Fürth 
+153,18,2,1. FSV Mainz 05 ,RB Leipzig 
+154,18,85,Borussia Dortmund ,1. FC Köln 
+155,18,154,Bayer 04 Leverkusen ,1. FC Union Berlin 
+156,18,191,TSG Hoffenheim ,Arminia Bielefeld 
+157,18,195,SpVgg Greuther Fürth ,Hertha BSC 
+158,18,215,Bor. Mönchengladbach ,VfL Wolfsburg 
+159,18,259,Eintracht Frankfurt ,SC Freiburg 
+160,18,276,VfL Bochum ,FC Augsburg 
+161,18,295,Bayern München ,VfB Stuttgart 
+162,19,19,1. FC Union Berlin ,Bor. Mönchengladbach 
+163,19,39,Bayern München ,VfL Bochum 
+164,19,74,Arminia Bielefeld ,Borussia Dortmund 
+165,19,86,Eintracht Frankfurt ,RB Leipzig 
+166,19,93,Hertha BSC ,Bayer 04 Leverkusen 
+167,19,114,VfB Stuttgart ,1. FSV Mainz 05 
+168,19,205,VfL Wolfsburg ,TSG Hoffenheim 
+169,19,241,SpVgg Greuther Fürth ,SC Freiburg 
+170,19,279,FC Augsburg ,1. FC Köln 
+171,20,43,VfB Stuttgart ,Bayer 04 Leverkusen 
+172,20,47,Bor. Mönchengladbach ,Borussia Dortmund 
+173,20,90,1. FC Köln ,1. FC Union Berlin 
+174,20,186,VfL Wolfsburg ,SpVgg Greuther Fürth 
+175,20,220,Hertha BSC ,Eintracht Frankfurt 
+176,20,235,1. FSV Mainz 05 ,Arminia Bielefeld 
+177,20,245,SC Freiburg ,Bayern München 
+178,20,250,TSG Hoffenheim ,VfL Bochum 
+179,20,294,RB Leipzig ,FC Augsburg 
+180,21,23,Borussia Dortmund ,TSG Hoffenheim 
+181,21,27,1. FC Union Berlin ,FC Augsburg 
+182,21,30,Eintracht Frankfurt ,VfB Stuttgart 
+183,21,32,SC Freiburg ,1. FC Köln 
+184,21,83,Bayer 04 Leverkusen ,VfL Wolfsburg 
+185,21,127,Bayern München ,1. FSV Mainz 05 
+186,21,130,RB Leipzig ,Bor. Mönchengladbach 
+187,21,223,VfL Bochum ,SpVgg Greuther Fürth 
+188,21,282,Arminia Bielefeld ,Hertha BSC 
+189,22,157,Bayern München ,Bor. Mönchengladbach 
+190,22,166,VfB Stuttgart ,RB Leipzig 
+191,22,188,Hertha BSC ,VfL Bochum 
+192,22,226,FC Augsburg ,1. FSV Mainz 05 
+193,22,263,1. FC Union Berlin ,Eintracht Frankfurt 
+194,22,269,Borussia Dortmund ,VfL Wolfsburg 
+195,22,272,1. FC Köln ,Arminia Bielefeld 
+196,22,273,SpVgg Greuther Fürth ,Bayer 04 Leverkusen 
+197,22,284,TSG Hoffenheim ,SC Freiburg 
+198,23,6,FC Augsburg ,TSG Hoffenheim 
+199,23,29,Bor. Mönchengladbach ,Arminia Bielefeld 
+200,23,53,VfL Bochum ,VfB Stuttgart 
+201,23,55,1. FSV Mainz 05 ,1. FC Union Berlin 
+202,23,69,SC Freiburg ,RB Leipzig 
+203,23,163,1. FC Köln ,Bayern München 
+204,23,165,VfL Wolfsburg ,Hertha BSC 
+205,23,281,Bayer 04 Leverkusen ,Eintracht Frankfurt 
+206,23,293,SpVgg Greuther Fürth ,Borussia Dortmund 
+207,24,16,TSG Hoffenheim ,1. FC Union Berlin 
+208,24,64,Bayer 04 Leverkusen ,Bayern München 
+209,24,77,RB Leipzig ,SpVgg Greuther Fürth 
+210,24,100,1. FSV Mainz 05 ,1. FC Köln 
+211,24,101,Arminia Bielefeld ,VfL Wolfsburg 
+212,24,111,Hertha BSC ,FC Augsburg 
+213,24,232,Eintracht Frankfurt ,VfL Bochum 
+214,24,257,VfB Stuttgart ,Borussia Dortmund 
+215,24,274,SC Freiburg ,Bor. Mönchengladbach 
+216,25,18,1. FC Köln ,VfL Bochum 
+217,25,57,Bayern München ,Eintracht Frankfurt 
+218,25,68,FC Augsburg ,Arminia Bielefeld 
+219,25,80,VfL Wolfsburg ,SC Freiburg 
+220,25,112,RB Leipzig ,Bayer 04 Leverkusen 
+221,25,113,SpVgg Greuther Fürth ,TSG Hoffenheim 
+222,25,231,1. FC Union Berlin ,VfB Stuttgart 
+223,25,244,Bor. Mönchengladbach ,1. FSV Mainz 05 
+224,25,300,Borussia Dortmund ,Hertha BSC 
+225,26,7,VfB Stuttgart ,SpVgg Greuther Fürth 
+226,26,58,Borussia Dortmund ,FC Augsburg 
+227,26,124,TSG Hoffenheim ,Eintracht Frankfurt 
+228,26,136,1. FSV Mainz 05 ,Hertha BSC 
+229,26,145,Bayern München ,VfL Wolfsburg 
+230,26,255,VfL Bochum ,Bayer 04 Leverkusen 
+231,26,261,Bor. Mönchengladbach ,1. FC Köln 
+232,26,288,SC Freiburg ,1. FC Union Berlin 
+233,26,301,Arminia Bielefeld ,RB Leipzig 
+234,27,28,Bayer 04 Leverkusen ,Borussia Dortmund 
+235,27,31,RB Leipzig ,Bayern München 
+236,27,34,TSG Hoffenheim ,1. FSV Mainz 05 
+237,27,41,FC Augsburg ,Bor. Mönchengladbach 
+238,27,59,Hertha BSC ,SC Freiburg 
+239,27,137,Arminia Bielefeld ,VfL Bochum 
+240,27,144,1. FC Köln ,VfB Stuttgart 
+241,27,216,VfL Wolfsburg ,1. FC Union Berlin 
+242,27,248,Eintracht Frankfurt ,SpVgg Greuther Fürth 
+243,28,5,Borussia Dortmund ,Eintracht Frankfurt 
+244,28,17,VfL Bochum ,1. FSV Mainz 05 
+245,28,26,VfL Wolfsburg ,RB Leipzig 
+246,28,45,1. FC Union Berlin ,Arminia Bielefeld 
+247,28,162,Bor. Mönchengladbach ,Bayer 04 Leverkusen 
+248,28,178,SC Freiburg ,VfB Stuttgart 
+249,28,207,SpVgg Greuther Fürth ,1. FC Köln 
+250,28,242,Hertha BSC ,TSG Hoffenheim 
+251,28,258,Bayern München ,FC Augsburg 
+252,29,3,Arminia Bielefeld ,SC Freiburg 
+253,29,22,Bayern München ,Hertha BSC 
+254,29,61,VfB Stuttgart ,TSG Hoffenheim 
+255,29,94,RB Leipzig ,Borussia Dortmund 
+256,29,118,1. FSV Mainz 05 ,VfL Wolfsburg 
+257,29,150,SpVgg Greuther Fürth ,FC Augsburg 
+258,29,152,VfL Bochum ,1. FC Union Berlin 
+259,29,225,Bayer 04 Leverkusen ,1. FC Köln 
+260,29,292,Eintracht Frankfurt ,Bor. Mönchengladbach 
+261,30,0,1. FC Köln ,Hertha BSC 
+262,30,20,1. FSV Mainz 05 ,SpVgg Greuther Fürth 
+263,30,21,Arminia Bielefeld ,Eintracht Frankfurt 
+264,30,84,Bor. Mönchengladbach ,VfL Bochum 
+265,30,117,1. FC Union Berlin ,RB Leipzig 
+266,30,122,Borussia Dortmund ,Bayern München 
+267,30,203,FC Augsburg ,SC Freiburg 
+268,30,287,VfB Stuttgart ,VfL Wolfsburg 
+269,30,291,TSG Hoffenheim ,Bayer 04 Leverkusen 
+270,31,15,SpVgg Greuther Fürth ,Arminia Bielefeld 
+271,31,76,Hertha BSC ,Bor. Mönchengladbach 
+272,31,87,FC Augsburg ,VfB Stuttgart 
+273,31,107,TSG Hoffenheim ,RB Leipzig 
+274,31,133,VfL Bochum ,Borussia Dortmund 
+275,31,143,VfL Wolfsburg ,1. FC Köln 
+276,31,146,Eintracht Frankfurt ,1. FSV Mainz 05 
+277,31,149,SC Freiburg ,Bayer 04 Leverkusen 
+278,31,234,Bayern München ,1. FC Union Berlin 
+279,32,40,Borussia Dortmund ,1. FC Union Berlin 
+280,32,60,RB Leipzig ,VfL Bochum 
+281,32,75,Bayern München ,TSG Hoffenheim 
+282,32,98,VfL Wolfsburg ,FC Augsburg 
+283,32,103,Bor. Mönchengladbach ,SpVgg Greuther Fürth 
+284,32,125,VfB Stuttgart ,Hertha BSC 
+285,32,190,SC Freiburg ,1. FSV Mainz 05 
+286,32,201,1. FC Köln ,Eintracht Frankfurt 
+287,32,209,Bayer 04 Leverkusen ,Arminia Bielefeld 
+288,33,51,SpVgg Greuther Fürth ,Bayern München 
+289,33,99,1. FC Union Berlin ,Hertha BSC 
+290,33,151,TSG Hoffenheim ,Bor. Mönchengladbach 
+291,33,161,VfL Bochum ,VfL Wolfsburg 
+292,33,164,FC Augsburg ,Eintracht Frankfurt 
+293,33,167,Borussia Dortmund ,SC Freiburg 
+294,33,189,RB Leipzig ,1. FC Köln 
+295,33,199,1. FSV Mainz 05 ,Bayer 04 Leverkusen 
+296,33,249,Arminia Bielefeld ,VfB Stuttgart 
+297,34,65,Bor. Mönchengladbach ,VfB Stuttgart 
+298,34,109,Bayern München ,Arminia Bielefeld 
+299,34,115,VfL Bochum ,SC Freiburg 
+300,34,132,SpVgg Greuther Fürth ,1. FC Union Berlin 
+301,34,177,Bayer 04 Leverkusen ,FC Augsburg 
+302,34,197,Eintracht Frankfurt ,VfL Wolfsburg 
+303,34,202,Hertha BSC ,RB Leipzig 
+304,34,219,1. FSV Mainz 05 ,Borussia Dortmund 
+305,34,224,1. FC Köln ,TSG Hoffenheim 
